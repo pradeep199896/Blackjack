@@ -1,0 +1,22 @@
+{
+  "name": "jack",
+  "version": "1.0.0",
+  "description": "blackjackgame.json",
+  "main": "black.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep199896/tictactoe.git"
+  },
+  "author": "pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep199896/tictactoe/issues"
+  },
+  "homepage": "https://github.com/pradeep199896/tictactoe#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+}
+}
